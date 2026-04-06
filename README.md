@@ -47,29 +47,37 @@ This project is a shopping list application designed to help manage daily shoppi
 It features a modern, clean, and user-friendly interface.
 
 📄 Features
+
 ➕ Add items
 ❌ Delete items
 ✏️ Edit items (inline editing)
 ✅ Mark items as completed / incomplete
 🧹 Clear the entire list
 💾 Store data with LocalStorage
+
 🔍 Filter Options
+
 All
 Completed
 Incomplete
+
 🧰 Technologies Used
+
 HTML5
 CSS3
 JavaScript (Vanilla JS)
 Bootstrap 5
 Bootstrap Icons
+
 📱 Application Features
+
 📱 Responsive design
 ⚡ Dynamic list management
 💾 Persistent data with LocalStorage
 🎯 User-friendly interface
 👆 Show delete icon on hover
 🖊️ Strikethrough style for completed items
+
 👨‍💻 Developer
 
 Alper Kaya
